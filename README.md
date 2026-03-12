@@ -2,7 +2,7 @@
 
 > A browser-based algebra game for Form 1 students (ages 11–13).  
 > Built as a single HTML file. No installation. No internet required after download.
-https://legallev-teach.github.io/term-wars/
+> https://legallev-teach.github.io/term-wars/
 ---
 
 ## 🎮 What It Is
