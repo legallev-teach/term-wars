@@ -2,7 +2,7 @@
 
 > A browser-based algebra game for Form 1 students (ages 11–13).  
 > Built as a single HTML file. No installation. No internet required after download.
-
+https://legallev-teach.github.io/term-wars/
 ---
 
 ## 🎮 What It Is
@@ -189,7 +189,7 @@ Designed for **Form 1 Mathematics** in the Trinidad and Tobago secondary school 
 
 ## 👤 Author
 
-Developed by a Form 1 Mathematics teacher at Caribbean Union College Secondary School, Arima, Trinidad and Tobago.
+Developed by E. A. Legall, a Form 1 Mathematics teacher at Caribbean Union College Secondary School, St. Joseph, Trinidad and Tobago.
 
 Built with the assistance of Claude (Anthropic) over multiple iterative sessions.
 
